@@ -20,7 +20,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://192.168.128.128:33306/springcloud_db01?serverTimezone=GMT%2B8
     username: root
-    password: 2020Flyhigh
+    password: angelfly
     dbcp2:
       min-idle: 5
       initial-size: 5
@@ -51,7 +51,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://192.168.128.128:33306/springcloud_db01?serverTimezone=GMT%2B8
     username: root
-    password: 2020Flyhigh
+    password: angelfly
     dbcp2:
       min-idle: 5
       initial-size: 5
