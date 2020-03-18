@@ -19,7 +19,7 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://192.168.128.128:33306/springcloud_db01?serverTimezone=GMT%2B8
-    username: angelfly
+    username: root
     password: 2020Flyhigh
     dbcp2:
       min-idle: 5
@@ -50,7 +50,7 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://192.168.128.128:33306/springcloud_db01?serverTimezone=GMT%2B8
-    username: angelfly
+    username: root
     password: 2020Flyhigh
     dbcp2:
       min-idle: 5
